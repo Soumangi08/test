@@ -2,6 +2,9 @@
 made by ADARSHA HALDER
 LICENSE AND COPYRIGHT OWNER--ADARSHA
 
+OPEN IT FROM LAPTOP
+NOT RESPONSIVE IN MOBILE PHONE
+
 https://adarsha.netlify.app/
 
 This was made by Adarsh on june   2022
